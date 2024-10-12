@@ -40,14 +40,14 @@ header {
 }
 
 .header-button:hover {
-  background-color: darkbrown; /* Färg vid hovring */
+  background-color:blanchedalmond; /* Färg vid hovring */
 }
 
 
 
 nav ul {
   list-style: none;
-  padding: 0x;
+  padding: 0px;
 }
 
 nav ul li {
@@ -146,7 +146,7 @@ button:hover {
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
 }
 
-#pp {
+.pp {
   font-size: 18px;
   line-height: 1.6;
   margin-bottom: 20px;
